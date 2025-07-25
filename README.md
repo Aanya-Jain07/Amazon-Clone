@@ -42,4 +42,4 @@ Here’s what you could add later:
 - Category filtering and sorting
 - Hover animations and transitions
 
-Let me know if you'd like a version formatted for GitHub with emojis, badges, or markdown tips—or if you're planning to bundle it as a portfolio piece! 🎨💼
+
