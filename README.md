@@ -30,7 +30,7 @@ Optimized for mobile viewing with stacked components, resized navigation, and im
 📂 Folder Structure
 
 project-folder/
-├── index.html         → Main HTML file
+├── amazon.html         → Main HTML file
 ├── style1.css         → External stylesheet
 └── amazon.png         → Local logo file for navbar/footer
 
