@@ -1,10 +1,13 @@
 🧩 Amazon-Inspired Static Homepage
+
 This project recreates the visual layout of an Amazon-like e-commerce homepage using HTML and CSS only. It includes styled navigation, product category sections, and responsive design—ideal for practicing front-end UI development and layout structuring.
 ⚙️ Tech Stack
 - HTML5
 - CSS3
 - Font Awesome (CDN for icons)
+- 
 🖼️ Features
+
 - Fully Styled Navigation Bar
 Includes location indicator, search bar with categories, account options, and cart icon.
 - Homepage Banner Section
@@ -23,14 +26,16 @@ Each section includes a "See More" button—styled but not yet functional.
 Provides informational panels about company links, social media, seller tools, and help center.
 - Responsive Layout (via Media Queries)
 Optimized for mobile viewing with stacked components, resized navigation, and image scaling.
+
 📂 Folder Structure
+
 project-folder/
 ├── index.html         → Main HTML file
 ├── style1.css         → External stylesheet
 └── amazon.png         → Local logo file for navbar/footer
 
-
 ⚠️ Limitations
+
 - No JavaScript Yet
 All buttons and form elements are presentational only (no interactivity).
 - Static Links
