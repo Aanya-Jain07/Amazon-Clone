@@ -5,7 +5,7 @@ This project recreates the visual layout of an Amazon-like e-commerce homepage u
 - HTML5
 - CSS3
 - Font Awesome (CDN for icons)
-- 
+  
 🖼️ Features
 
 - Fully Styled Navigation Bar
@@ -33,6 +33,8 @@ project-folder/
 ├── amazon.html         → Main HTML file
 ├── style1.css         → External stylesheet
 └── amazon.png         → Local logo file for navbar/footer
+
+Visit my website page  https://aanya-jain07.github.io/Amazon-Clone/
 
 ⚠️ Limitations
 
