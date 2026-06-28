@@ -36,6 +36,11 @@ project-folder/
 
 Visit my website page  https://aanya-jain07.github.io/Amazon-Clone/
 
+Preview
+
+<img width="1805" height="846" alt="Screenshot 2026-06-28 173833" src="https://github.com/user-attachments/assets/7107478d-62b9-474a-9e1d-5dd1bb81cefb" />
+
+
 ⚠️ Limitations
 
 - No JavaScript Yet
