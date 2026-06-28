@@ -6,7 +6,7 @@ A pixel-perfect recreation of Amazon's e-commerce homepage built with pure HTML 
 [![HTML5](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-![Amazon Clone Preview]<img width="1805" height="846" alt="Screenshot 2026-06-28 173833" src="https://github.com/user-attachments/assets/0ce42789-918f-4aaf-9ad5-abb3e1826c57" />
+[Amazon Clone Preview]<img width="1805" height="846" alt="Screenshot 2026-06-28 173833" src="https://github.com/user-attachments/assets/0ce42789-918f-4aaf-9ad5-abb3e1826c57" />
 
 
 ---
