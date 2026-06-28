@@ -44,9 +44,12 @@ A pixel-perfect recreation of Amazon's e-commerce homepage built with pure HTML 
 ## 📂 Folder Structure
 
 project-folder/
-├── amazon.html         → Main HTML file
-├── style1.css         → External stylesheet
-└── amazon.png         → Local logo file for navbar/footer
+
+├── amazon.html      → Main HTML file
+
+├── style1.css       → External stylesheet
+
+└── amazon.png       → Logo image for navbar and footer
 
 ---
 
