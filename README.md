@@ -1,57 +1,75 @@
-🧩 Amazon-Inspired Static Homepage
+# 🛒 Amazon-Inspired Static Homepage
 
-This project recreates the visual layout of an Amazon-like e-commerce homepage using HTML and CSS only. It includes styled navigation, product category sections, and responsive design—ideal for practicing front-end UI development and layout structuring.
-⚙️ Tech Stack
+A pixel-perfect recreation of Amazon's e-commerce homepage built with pure HTML and CSS. Focuses on layout structuring, navigation design, and responsive UI — no frameworks, no JavaScript.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://aanya-jain07.github.io/Amazon-Clone/)
+[![HTML5](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+![Amazon Clone Preview](./preview.png)
+
+---
+
+## 🔗 Live Demo
+[https://aanya-jain07.github.io/Amazon-Clone/](https://aanya-jain07.github.io/Amazon-Clone/)
+
+---
+
+## ⚙️ Tech Stack
+
 - HTML5
 - CSS3
 - Font Awesome (CDN for icons)
-  
-🖼️ Features
 
-- Fully Styled Navigation Bar
-Includes location indicator, search bar with categories, account options, and cart icon.
-- Homepage Banner Section
-Displays promotional image with full-width styling.
-- Product Categories
-Six well-defined sections:
-- Home Appliances
-- Home Styling & Decor
-- Headphones
-- Automotive Essentials
-- Fashion Accessories
-- Kitchen Tools
-- Custom Buttons
-Each section includes a "See More" button—styled but not yet functional.
-- Structured Footer
-Provides informational panels about company links, social media, seller tools, and help center.
-- Responsive Layout (via Media Queries)
-Optimized for mobile viewing with stacked components, resized navigation, and image scaling.
+---
 
-📂 Folder Structure
+## 🖼️ Features
+
+- **Fully Styled Navigation Bar** — location indicator, search bar with categories, account options and cart icon
+- **Homepage Banner** — full-width promotional image section
+- **6 Product Category Sections**
+  - Home Appliances
+  - Home Styling & Decor
+  - Headphones
+  - Automotive Essentials
+  - Fashion Accessories
+  - Kitchen Tools
+- **See More Buttons** — styled on each category card
+- **Structured Footer** — company links, social media, seller tools and help center panels
+- **Responsive Layout** — media queries for mobile with stacked components, resized navigation and scaled images
+
+---
+
+## 📂 Folder Structure
 
 project-folder/
 ├── amazon.html         → Main HTML file
 ├── style1.css         → External stylesheet
 └── amazon.png         → Local logo file for navbar/footer
 
-Visit my website page  https://aanya-jain07.github.io/Amazon-Clone/
+---
 
-Preview
+## ⚠️ Limitations
 
-<img width="1805" height="846" alt="Screenshot 2026-06-28 173833" src="https://github.com/user-attachments/assets/7107478d-62b9-474a-9e1d-5dd1bb81cefb" />
+- No JavaScript — all buttons and forms are presentational only
+- Footer anchor tags are non-clickable placeholders
+- Static content — no dynamic data or API integration
 
+---
 
-⚠️ Limitations
+## 🔮 Future Ideas
 
-- No JavaScript Yet
-All buttons and form elements are presentational only (no interactivity).
-- Static Links
-Anchor tags in the footer are non-clickable placeholders.
-🚀 Future Ideas
-Here’s what you could add later:
-- JavaScript-driven interactivity (e.g. cart behavior, search filtering)
-- Linkable product details or modal pop-ups
+- JavaScript cart behavior and search filtering
+- Clickable product cards with modal pop-ups
 - Category filtering and sorting
 - Hover animations and transitions
+- Backend integration for real product data
+
+---
+
+## 👩‍💻 Author
+
+**Aanya Jain**
+[GitHub](https://github.com/Aanya-Jain07)
 
 
